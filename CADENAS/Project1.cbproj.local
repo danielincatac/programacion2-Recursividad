@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/02/15 15:32:02.000.142,=C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/02/15 15:32:03.000.693,=C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/02/15 18:23:11.000.056,C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Unit1.cpp=W:\UAGRM\PROGRMACION II VERANO\CADENAS\Unit1.cpp</Transaction>
+    <Transaction>2022/02/15 18:23:11.000.072,C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Unit1.h=W:\UAGRM\PROGRMACION II VERANO\CADENAS\Unit1.h</Transaction>
+    <Transaction>2022/02/15 18:23:11.000.087,C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Unit1.dfm=W:\UAGRM\PROGRMACION II VERANO\CADENAS\Unit1.dfm</Transaction>
+    <Transaction>2022/02/15 18:23:16.000.029,C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=W:\UAGRM\PROGRMACION II VERANO\CADENAS\Project1PCH1.h</Transaction>
+    <Transaction>2022/02/15 18:23:19.000.002,C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Project1.cbproj=W:\UAGRM\PROGRMACION II VERANO\CADENAS\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

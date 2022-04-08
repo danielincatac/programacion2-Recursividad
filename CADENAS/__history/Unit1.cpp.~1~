@@ -1,0 +1,51 @@
+//---------------------------------------------------------------------------
+
+#include <vcl.h>
+#pragma hdrstop
+
+#include "Unit1.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+TForm1 *Form1;
+//---------------------------------------------------------------------------
+__fastcall TForm1::TForm1(TComponent* Owner)
+	: TForm(Owner)
+{
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TForm1::CADENAS2Click(TObject *Sender)
+{
+	//Edit2->Text=StrToInt(CantPal(Edit1->Text));
+}
+//---------------------------------------------------------------------------
+AnsiString RepNum(byte a, byte b){
+	AnsiString num;
+	if(a==0){
+		num="";
+	}else{
+		a--;
+		num=RepNum(a,b);
+		num=num+StrToInt(b);
+	}
+	return num;
+}
+AnsiString CadNumRep(Cardinal n){
+	AnsiString num;
+	if(n==0){
+		num="";
+	}else{
+		byte d=n%10;
+		n/=10;
+		num=CadNumRep(n);
+		num=num+RepNum(d,d);
+	}
+	return num;
+}
+void __fastcall TForm1::EJ51Click(TObject *Sender)
+{
+	Edit2->Text=CadNumRep(StrToInt(Edit1->Text));
+}
+//---------------------------------------------------------------------------
+

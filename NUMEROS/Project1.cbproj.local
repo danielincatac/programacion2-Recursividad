@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/02/15 14:18:18.914,=C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/02/15 14:18:21.070,=C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/02/15 15:10:34.543,W:\UAGRM\PROGRMACION II VERANO\NUMEROS\Unit1.h=C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2022/02/15 15:10:34.543,W:\UAGRM\PROGRMACION II VERANO\NUMEROS\Unit1.cpp=C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/02/15 15:10:34.543,W:\UAGRM\PROGRMACION II VERANO\NUMEROS\Unit1.dfm=C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/02/15 15:10:42.675,W:\UAGRM\PROGRMACION II VERANO\NUMEROS\Project1PCH1.h=C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/02/15 15:10:44.009,W:\UAGRM\PROGRMACION II VERANO\NUMEROS\Project1.cbproj=C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
